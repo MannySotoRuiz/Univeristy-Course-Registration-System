@@ -113,7 +113,6 @@ public class Admin extends Users implements AdminInterface, Serializable {
 		for (int i = 0; i < list.size(); i++) {
 			Course temp = new Course();
 			temp = list.get(i);
-			fullCourses.add(temp);
 			
 			if (temp.getCurrentStudents() == temp.getMaxStudents()) {
 				fullCourses.add(temp);
