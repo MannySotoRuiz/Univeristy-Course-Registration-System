@@ -10,7 +10,7 @@ In this program there is a login for either students or admins. Admins have the 
 
 Students have the ability to view all courses, view which ones are not full, register or withdraw from a course, and view their current enrolled courses.
 
-Learning Objectives
+## Learning Objectives
 - Learning how to design and engineer a software solution using the Object-Oriented Programming Paradigm (OOP)
 - Practicing Abstraction, Encapsulation, Inheritance, Method Overriding, Method Overloading and Polymorphism.
 - Practicing Sorting of Objects
@@ -18,10 +18,10 @@ Learning Objectives
 - Practicing File/IO in Java
 - Practicing Serialization and Binary Files in Java
 
-Language:
+## Language:
 - Java
 
-OOP concepts:
+## OOP concepts:
 - Method overloading
 - Method overriding
 - Inheritance
